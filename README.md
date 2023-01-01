@@ -4,3 +4,4 @@ A continuación muestro varios ejercicios de programación realizados en diferen
 ## Exercises
 - FizzBuzz
 - Anagrama
+- Sucesión de Fibonacci
